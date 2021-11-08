@@ -8,3 +8,7 @@ Works!
 @emotion/styled@^11.3.0
 framer-motion@^4.1.17
 ```
+
+To start
+npm i
+npm run dev
